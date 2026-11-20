@@ -1,0 +1,17 @@
+{
+  "name": "AI Architect Sprint",
+  "image": "mcr.microsoft.com/devcontainers/python:3.13",
+  "features": {
+    "ghcr.io/jsburckhardt/devcontainer-features/uv:1": {}
+  },
+  "postCreateCommand": "mkdir -p specs schemas pipelines docs",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-python.python",
+        "Continue.continue",
+        "bierner.markdown-mermaid"
+      ]
+    }
+  }
+}
