@@ -1,0 +1,12 @@
+id,first_name,last_name,email,phone,birthdate,street_address,city,province,postal_code
+1001,Maya,Chen,maya.chen@example.com,555-0101,1988-04-12,14 Oak Street,Portland,OR,97201
+1002,Liam,Patel,liam.patel@example.com,555-0102,1991-09-03,82 Pine Avenue,Salem,OR,97301
+1003,Sofia,Garcia,sofia.garcia@example.com,555-0103,1985-12-21,7 Cedar Road,Eugene,OR,97401
+1004,Noah,Williams,noah.williams@example.com,555-0104,1994-06-17,203 Maple Lane,Bend,OR,97701
+1005,Ava,Johnson,ava.johnson@example.com,555-0105,1990-02-28,19 Birch Court,Portland,OR,97205
+1006,Ethan,Kim,ethan.kim@example.com,555-0106,1982-11-09,55 River Drive,Hillsboro,OR,97123
+1007,Isabella,Brown,isabella.brown@example.com,555-0107,1997-03-14,6 Spruce Way,Gresham,OR,97030
+1008,Oliver,Davis,oliver.davis@example.com,555-0108,1989-07-26,31 Elm Street,Corvallis,OR,97330
+1009,Amelia,Wilson,amelia.wilson@example.com,555-0109,1993-10-05,90 Ash Boulevard,Medford,OR,97501
+1010,Lucas,Martinez,lucas.martinez@example.com,555-0110,1986-01-19,12 Willow Place,Portland,OR,97209
+1011,Mia,Thomas,mia.thomas@example.com,555-0111,1992-08-30,4 Fir Terrace,Portland,OR,97211

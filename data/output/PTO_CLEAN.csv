@@ -1,0 +1,13 @@
+employee_id,pto_type,start_date,end_date,status,approver_id
+1001,Vacation,2026-01-12,2026-01-16,approved,2001
+1002,Sick,2026-02-03,2026-02-04,approved,2002
+1003,Personal,2026-03-20,2026-03-20,pending,2001
+1004,Vacation,2026-04-06,2026-04-10,approved,2003
+1005,Parental,2026-05-01,2026-05-29,pending,2002
+1006,Sick,2026-01-22,2026-01-23,denied,2001
+1007,Vacation,2026-06-15,2026-06-19,approved,2003
+1008,Personal,2026-07-02,2026-07-02,approved,2002
+1009,Vacation,2026-08-10,2026-08-14,pending,2001
+1010,Sick,2026-09-08,2026-09-08,approved,2003
+1011,Vacation,2026-10-19,2026-10-23,approved,2002
+1012,Sick,2026-11-02,2026-11-03,pending,2001
